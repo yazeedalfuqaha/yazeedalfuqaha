@@ -26,24 +26,24 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yazeedalfuqaha&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazeedalfuqaha&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
 </div>
 
 ---
 
 ### 🔥 My Recent Projects
-- **[DashTask Pro](https://github.com/[YOUR_GITHUB_USERNAME]/dashtask-pro)**: A professional Task Management PWA built with Quasar, Vue 3, and Firebase Real-time database.
+- **[DashTask Pro](https://github.com/yazeedalfuqaha/task-management-app)**: A professional Task Management PWA built with Quasar, Vue 3, and Firebase Real-time database.
 
 ---
 
 ### 📫 Connect with me:
 <div align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/yazeed-alfukaha-7a7228273/">
+  <a href="https://www.linkedin.com/in/yazeed-alfukaha-7a7228273/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[YOUR_EMAIL]">
+  <a href="mailto:yazeed.alfukaha@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
