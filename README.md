@@ -1,53 +1,75 @@
-# 👋 Hello, I'm Yazeed Al-fukaha
-### 🚀 Full-Stack Web Developer | Vue.js & Quasar Specialist
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1976D2&center=true&vCenter=true&width=435&lines=Building+Scalable+Apps;Vue.js+%2B+Quasar+Expert;Firebase+Enthusiast;UI%2FUX+Driven+Developer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1976D2&height=200&section=header&text=Yazeed%20Al-fukaha&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+
+  ### 🚀 Software Engineer | Vue.js & Quasar Specialist
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1976D2&center=true&vCenter=true&width=500&lines=Building+Scalable+Cloud+Apps;Mastering+Vue.js+3+%2B+Vite;Firebase+Architecture+Expert;Crafting+Modern+PWA+Experiences)](https://git.io/typing-svg)
 </div>
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack & Digital Toolkit
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue" />
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <br>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yazeedalfuqaha&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Overall Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazeedalfuqaha&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yazeedalfuqaha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yazeedalfuqaha&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazeedalfuqaha&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
-</div>
+### 📂 Featured Masterpiece
+> **[DashTask Pro](https://github.com/yazeedalfuqaha/task-management-app)** > *A high-performance Task Management PWA built with Quasar Framework. Features real-time sync, offline support, and advanced Firebase security rules.*
 
 ---
 
-### 🔥 My Recent Projects
-- **[DashTask Pro](https://github.com/yazeedalfuqaha/task-management-app)**: A professional Task Management PWA built with Quasar, Vue 3, and Firebase Real-time database.
+### 📫 Let's Build Something Together!
 
----
-
-### 📫 Connect with me:
 <div align="center">
   <a href="https://www.linkedin.com/in/yazeed-alfukaha-7a7228273/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yazeed.alfukaha@example.com">
+  <a href="mailto:yalfuqaha8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
+<br>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1976D2&height=100&section=footer" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 </p>
