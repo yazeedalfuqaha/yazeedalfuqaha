@@ -1,80 +1,104 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1976D2&height=200&section=header&text=Yazeed%20Al-fukaha&fontSize=60&animation=fadeIn&fontColor=ffffff" />
 
-  <h1>🚀 Software Engineer | Vue.js & Quasar Specialist</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1976D2,100:42A5F5&height=220&section=header&text=Yazeed%20Al-Fuqaha&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1976D2&center=true&vCenter=true&width=500&lines=Building+Scalable+Cloud+Apps;Mastering+Vue.js+3+%2B+Vite;Firebase+Architecture+Expert;Crafting+Modern+PWA+Experiences" alt="Typing SVG" />
-  </p>
+# 👨‍💻 Yazeed Al-Fuqaha
+### 🚀 Software Engineer | Vue.js & Quasar Specialist
 
-  <div>
-    <a href="https://www.linkedin.com/in/yazeed-alfukaha-7a7228273/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:yalfuqaha8@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-    </a>
-  </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1976D2&center=true&vCenter=true&width=550&lines=Building+Scalable+Web+Apps;Vue.js+3+%2B+Vite+Expert;Firebase+%26+Realtime+Systems;Crafting+Modern+PWAs" />
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
-I specialize in building **high-performance PWAs** and **Scalable Cloud Architectures**. My focus is on creating seamless user experiences using the **Quasar Framework** and ensuring data integrity with **Firebase**.
+## 🧠 About Me
 
-- 🔭 I’m currently working on **DashTask Pro** (Enterprise Task Management).
-- ⚡ Fun fact: I believe a clean `script setup` is a work of art.
-
----
-
-### 🛠️ Technical Arsenal
-
-<table align="center">
-  <tr>
-    <td align="center" width="120"><b>Frontend</b></td>
-    <td align="center" width="120"><b>Backend/Cloud</b></td>
-    <td align="center" width="120"><b>Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vue,quasar,ts,tailwind,pinia" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=firebase,nodejs,supabase" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite,git,figma,postman,vscode" />
-    </td>
-  </tr>
-</table>
+💡 Passionate Software Engineer focused on building **scalable, high-performance web applications**.  
+⚡ Specialized in **Vue 3, Quasar Framework, and Firebase Architecture**.  
+🌍 Interested in **real-time systems, PWAs, and clean UI/UX design**.  
 
 ---
 
-### 📂 Featured Masterpiece
+## 🛠️ Tech Stack
 
 <div align="center">
-  <h3>✨ DashTask Pro ✨</h3>
-  <p><i>A high-performance Task Management PWA built with Quasar & Firebase.</i></p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yazeedalfuqaha&repo=task-management-app&theme=tokyonight&hide_border=true" />
-</div>
 
-> **Key Features:** Real-time data sync, Offline-first capabilities, and Robust Firebase Security Rules.
+| Frontend | Backend / BaaS | Tools |
+|----------|----------------|------|
+| Vue.js 3 | Firebase       | Git |
+| TypeScript | Firestore   | GitHub |
+| Quasar Framework | Authentication | Vite |
+| HTML5 / CSS3 | Cloud Functions | VS Code |
 
----
-
-### 📊 Engineering Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yazeedalfuqaha&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazeedalfuqaha&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yazeedalfuqaha&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-<p align="center">
+## 🚀 Featured Project
+
+### 🔥 DashTask Pro
+> High-performance Task Management PWA
+
+🔗 **Repo:** https://github.com/yazeedalfuqaha/task-management-app  
+
+### ✨ Key Features:
+- ⚡ Real-time sync using Firebase
+- 📱 Fully responsive + PWA support
+- 🔐 Advanced security rules
+- 🌐 Offline-first experience
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yazeedalfuqaha&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazeedalfuqaha&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yazeedalfuqaha&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🧩 What I Focus On
+
+- ⚡ Performance Optimization
+- 🔥 Scalable Frontend Architecture
+- ☁️ Firebase & Serverless Systems
+- 📱 Progressive Web Apps (PWA)
+- 🎯 Clean & Maintainable Code
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yazeed-alfukaha-7a7228273/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yalfuqaha8@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+> I don’t just build apps… I engineer **experiences** 🚀
+
+---
+
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+</div>
