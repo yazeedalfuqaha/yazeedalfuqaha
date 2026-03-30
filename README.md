@@ -27,18 +27,26 @@ I am a results-driven **Full-Stack Developer** dedicated to crafting seamless us
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### **Tools & Workflow**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 
 ---
 
+## 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Learnova](https://github.com/yazeedalfuqaha/Learnova)** | A comprehensive LMS featuring course progress tracking and real-time updates. | Vue 3, Quasar, Firebase |
+| **[TS API Experiments](https://github.com/yazeedalfuqaha/TypeScript-API-Examples)** | Advanced implementation of TypeScript interfaces and generics. | TypeScript, REST API |
+| **[Portfolio V2](https://github.com/yazeedalfuqaha/Portfolio)** | Modern, interactive portfolio showcasing performance and clean UI design. | HTML, SCSS, TS |
 
 ---
 
-## 📊 GitHub Ecosystem
+## 🐍 GitHub Contribution Journey
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yazeedalfuqaha&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazeedalfuqaha&layout=compact&theme=tokyonight" alt="Top Langs" height="180px">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yazeedalfuqaha&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yazeedalfuqaha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
