@@ -31,15 +31,7 @@ I am a results-driven **Full-Stack Developer** dedicated to crafting seamless us
 
 ---
 
-## 📂 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Learnova](https://github.com/yazeedalfuqaha/Learnova)** | A comprehensive LMS featuring course progress tracking and real-time updates. | Vue 3, Quasar, Firebase |
-| **[TS API Experiments](https://github.com/yazeedalfuqaha/TypeScript-API-Examples)** | Advanced implementation of TypeScript interfaces and generics for robust data fetching. | TypeScript, REST API |
-| **[Portfolio V2](https://github.com/yazeedalfuqaha/Portfolio)** | This modern, interactive portfolio showcasing performance and clean UI design. | HTML, SCSS, TS |
-
----
 
 ## 📊 GitHub Ecosystem
 
