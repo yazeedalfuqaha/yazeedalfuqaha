@@ -14,7 +14,6 @@ I am a results-driven **Full-Stack Developer** dedicated to crafting seamless us
 - 💡 **Core Philosophy:** Writing clean, maintainable code that solves real-world problems.
 - ⚡ **Current Stack:** Vue 3 (Composition API), Quasar Framework, and Laravel.
 - 🔭 **I’m currently working on:** Expanding my expertise in Node.js and Cloud Architecture.
-- 🌱 **I’m currently learning:** Advanced Design Patterns and Performance Optimization.
 
 ---
 
@@ -31,13 +30,25 @@ I am a results-driven **Full-Stack Developer** dedicated to crafting seamless us
 
 ---
 
-## 📂 Featured Projects
+## 🏗️ Top Repositories & Contributions
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Learnova](https://github.com/yazeedalfuqaha/Learnova)** | A comprehensive LMS featuring course progress tracking and real-time updates. | Vue 3, Quasar, Firebase |
-| **[TS API Experiments](https://github.com/yazeedalfuqaha/TypeScript-API-Examples)** | Advanced implementation of TypeScript interfaces and generics. | TypeScript, REST API |
-| **[Portfolio V2](https://github.com/yazeedalfuqaha/Portfolio)** | Modern, interactive portfolio showcasing performance and clean UI design. | HTML, SCSS, TS |
+<div align="center">
+  <a href="https://github.com/yazeedalfuqaha/Learnova">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yazeedalfuqaha&repo=Learnova&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/yazeedalfuqaha/TypeScript-API-Examples">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yazeedalfuqaha&repo=TypeScript-API-Examples&theme=tokyonight" />
+  </a>
+</div>
+<br />
+<div align="center">
+  <a href="https://github.com/yazeedalfuqaha/Portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yazeedalfuqaha&repo=Portfolio&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/yazeedalfuqaha/yazeedalfuqaha">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yazeedalfuqaha&repo=yazeedalfuqaha&theme=tokyonight" />
+  </a>
+</div>
 
 ---
 
