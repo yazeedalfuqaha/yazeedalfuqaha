@@ -1,59 +1,76 @@
 # 👋 Hi, I’m Yazeed Alfuqaha
 
-## 🚀 Full-Stack Web Developer | TypeScript & Vue.js Enthusiast
+### 🚀 Full-Stack Web Developer | TypeScript & Vue.js Enthusiast
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1976D2&height=180&section=header&text=Welcome%20to%20my%20Dev%20Space&fontSize=50&animation=fadeIn" alt="Header">
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 I am a results-driven **Full-Stack Developer** dedicated to crafting seamless user experiences and robust backend architectures. My focus lies in the **Vue ecosystem**, where I leverage **TypeScript** to build type-safe, scalable applications.
 
-* 💡 **Core Philosophy:** Writing clean, maintainable code that solves real-world problems.
-* ⚡ **Current Stack:** Vue 3 (Composition API), Quasar Framework, and Laravel.
-* 🔭 **Focus:** Expanding expertise in Node.js and Cloud Architecture.
-* 🌱 **Learning:** Advanced Design Patterns and Performance Optimization.
+- 💡 **Core Philosophy:** Writing clean, maintainable code that solves real-world problems.
+- ⚡ **Current Stack:** Vue 3 (Composition API), Quasar Framework, and Laravel.
+- 🔭 **I’m currently working on:** Expanding my expertise in Node.js and Cloud Architecture.
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-#### **Frontend & UI/UX**
-* **Frameworks:** Vue 3 (Composition API), Quasar Framework
-* **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3
-* **Styling:** TailwindCSS, SCSS, Responsive Design
+### **Frontend & UI/UX**
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### **Backend & Database**
-* **Frameworks:** Laravel (PHP)
-* **Databases:** MySQL, Firebase (Firestore, Realtime DB)
-* **Basics:** Node.js, RESTful API Design
+### **Backend & Database**
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-#### **Tools & Workflow**
-* **Version Control:** Git & GitHub
-* **Design/Planning:** Figma, Miro
-* **Testing:** Postman
+### **Tools & Workflow**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 
 ---
 
-### 📂 Featured Projects
+## 🏗️ Top Repositories & Contributions
 
-* **[Learnova](https://github.com/yazeedalfuqaha/Learnova)**
-    * *Description:* An Online Learning Platform featuring authentication and course management.
-    * *Tech:* Vue 3 + Quasar + Firebase.
+<div align="center">
+  <a href="https://github.com/yazeedalfuqaha/Learnova">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yazeedalfuqaha&repo=Learnova&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/yazeedalfuqaha/TypeScript-API-Examples">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yazeedalfuqaha&repo=TypeScript-API-Examples&theme=tokyonight" />
+  </a>
+</div>
+<br />
+<div align="center">
+  <a href="https://github.com/yazeedalfuqaha/Portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yazeedalfuqaha&repo=Portfolio&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/yazeedalfuqaha/yazeedalfuqaha">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yazeedalfuqaha&repo=yazeedalfuqaha&theme=tokyonight" />
+  </a>
+</div>
 
-* **[TypeScript API Experiments](https://github.com/yazeedalfuqaha/TypeScript-API-Examples)**
-    * *Description:* Practice with Tuples, Interfaces, and Mock API data fetching.
-    * *Tech:* TypeScript.
+---
 
-* **[Portfolio Website](https://github.com/yazeedalfuqaha/Portfolio)**
-    * *Description:* Personal showcase of skills and interactive web components.
-    * *Tech:* HTML, SCSS, TypeScript.
+## 🐍 GitHub Contribution Journey
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yazeedalfuqaha&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yazeedalfuqaha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 📫 Connect with me
-
-* **Email:** [yalfuqaha8@gmail.com](mailto:yalfuqaha8@gmail.com)
-* **LinkedIn:** [Yazeed Alfuqaha](https://www.linkedin.com/in/yazeed-alfukaha-7a7228273/)
-* **GitHub:** [yazeedalfuqaha](https://github.com/yazeedalfuqaha)
+## 📫 Connect with me
+<div align="left">
+  <a href="mailto:yalfuqaha8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yazeed-alfukaha-7a7228273/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/yazeedalfuqaha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
 ---
-*Built with precision and clean code.*
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=1976D2&height=100&section=footer" alt="Footer">
+</div>
