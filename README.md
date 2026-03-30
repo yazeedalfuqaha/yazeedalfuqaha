@@ -1,66 +1,124 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=YAZEED%20AL-FUKAHA&fontSize=50&fontAlignY=50&animation=fadeIn&fontColor=1976D2" />
 
-  <p align="center">
-    <b>Senior Frontend Architect | Vue 3 & Quasar Ecosystem 🛡️</b><br>
-    <i>Specializing in Reactive State Management, PWA Optimization, and Firebase Security.</i>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Yazeed%20Al-Fuqaha&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-  <img src="https://img.shields.io/badge/VUE.JS-3.x-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/QUASAR-FRAMEWORK-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
-  <img src="https://img.shields.io/badge/FIREBASE-SERVERLESS-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-STRICT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<h2>🚀 Software Engineer | Vue Ecosystem Specialist</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Vue+3+%2B+Quasar+Expert;Firebase+Realtime+Architect;Crafting+Beautiful+PWAs" />
+
 </div>
 
 ---
 
-### ⚡ Technical Philosophy
-> "Code is for humans to read, and only incidentally for machines to execute."
+## 🧠 About Me
 
-* **State Logic:** Obsessed with clean **Pinia** stores and modular composition APIs.
-* **Performance:** Expert in **Vite** optimization, code-splitting, and PWA service workers.
-* **Architecture:** Designing "Firebase-first" apps with strict **Firestore Security Rules** and automated **Cloud Functions**.
-
----
-
-### 🛠️ The Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Core** | `Vue 3`, `TypeScript`, `JavaScript (ES6+)` |
-| **Frameworks** | `Quasar (CLI/Vite)`, `Nuxt 3` |
-| **State & Data** | `Pinia`, `VueUse`, `Firebase (Firestore/Auth/Storage)` |
-| **Styles & UI** | `Tailwind CSS`, `SASS/SCSS`, `Figma-to-Code` |
-| **Tooling** | `Vite`, `Vitest`, `ESLint`, `Git Flow` |
+💡 I build **high-performance, scalable web apps** using modern frontend architecture.
+⚡ Focused on **Vue 3, Quasar, Firebase, and real-time systems**.
+🎯 I care about **performance, clean code, and user experience**.
 
 ---
 
-### 🏆 Featured Project: DashTask Pro
-**[Visit Repository](https://github.com/yazeedalfuqaha/task-management-app)**
-
-* **The Tech:** Quasar 3 + Pinia + Firebase.
-* **The Challenge:** Handling real-time data synchronization with offline persistence.
-* **The Solution:** Implemented a custom caching layer using **IndexedDB** and Firestore listeners for a seamless "Zero-Latency" feel.
-
----
-
-### 📈 Contribution Graph & Skill Set
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yazeedalfuqaha&show_icons=true&theme=transparent&hide_border=true&title_color=1976D2&icon_color=1976D2&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazeedalfuqaha&layout=compact&theme=transparent&hide_border=true&title_color=1976D2&text_color=ffffff" width="42%" />
+
+<img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,quasar,vite,firebase,nodejs,git,github,vscode&perline=6" />
+
+</div>
+
+---
+
+## ⚙️ Frameworks & Tools I Use
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Vue.js-3-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Quasar-Framework-1976D2?style=for-the-badge&logo=quasar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-Typed-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+### 🔥 DashTask Pro
+
+> A powerful Task Management PWA built with Quasar + Firebase
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yazeedalfuqaha&repo=task-management-app&theme=tokyonight&hide_border=true" />
+
+</div>
+
+### ✨ Features:
+
+* ⚡ Real-time sync (Firestore)
+* 📱 PWA + Offline support
+* 🔐 Secure auth system
+* 🎯 Clean UI (Quasar)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yazeedalfuqaha&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazeedalfuqaha&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yazeedalfuqaha&theme=transparent&hide_border=true&stroke=1976D2&ring=1976D2&fire=1976D2&currStreakLabel=1976D2" width="90%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yazeedalfuqaha&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-### 📫 Connect & Collaborate
-<p align="center">
-<a href="https://www.linkedin.com/in/yazeed-alfukaha-7a7228273/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
-<a href="mailto:yalfuqaha8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
-</p>
+## 🎯 What I Focus On
+
+* ⚡ Performance & Optimization
+* 🔥 Scalable Architecture
+* ☁️ Firebase & Serverless
+* 📱 Progressive Web Apps
+* 🎨 Clean UI/UX
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yazeed-alfukaha-7a7228273/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yalfuqaha8@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## ⚡ Developer Mindset
+
+```ts
+while (alive) {
+  learn();
+  build();
+  improve();
+}
+```
+
+---
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
