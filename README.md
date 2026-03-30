@@ -1,104 +1,66 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=YAZEED%20AL-FUKAHA&fontSize=50&fontAlignY=50&animation=fadeIn&fontColor=1976D2" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1976D2,100:42A5F5&height=220&section=header&text=Yazeed%20Al-Fuqaha&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <p align="center">
+    <b>Senior Frontend Architect | Vue 3 & Quasar Ecosystem 🛡️</b><br>
+    <i>Specializing in Reactive State Management, PWA Optimization, and Firebase Security.</i>
+  </p>
 
-# 👨‍💻 Yazeed Al-Fuqaha
-### 🚀 Software Engineer | Vue.js & Quasar Specialist
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1976D2&center=true&vCenter=true&width=550&lines=Building+Scalable+Web+Apps;Vue.js+3+%2B+Vite+Expert;Firebase+%26+Realtime+Systems;Crafting+Modern+PWAs" />
-
+  <img src="https://img.shields.io/badge/VUE.JS-3.x-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/QUASAR-FRAMEWORK-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIREBASE-SERVERLESS-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-STRICT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
 ---
 
-## 🧠 About Me
+### ⚡ Technical Philosophy
+> "Code is for humans to read, and only incidentally for machines to execute."
 
-💡 Passionate Software Engineer focused on building **scalable, high-performance web applications**.  
-⚡ Specialized in **Vue 3, Quasar Framework, and Firebase Architecture**.  
-🌍 Interested in **real-time systems, PWAs, and clean UI/UX design**.  
+* **State Logic:** Obsessed with clean **Pinia** stores and modular composition APIs.
+* **Performance:** Expert in **Vite** optimization, code-splitting, and PWA service workers.
+* **Architecture:** Designing "Firebase-first" apps with strict **Firestore Security Rules** and automated **Cloud Functions**.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ The Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Core** | `Vue 3`, `TypeScript`, `JavaScript (ES6+)` |
+| **Frameworks** | `Quasar (CLI/Vite)`, `Nuxt 3` |
+| **State & Data** | `Pinia`, `VueUse`, `Firebase (Firestore/Auth/Storage)` |
+| **Styles & UI** | `Tailwind CSS`, `SASS/SCSS`, `Figma-to-Code` |
+| **Tooling** | `Vite`, `Vitest`, `ESLint`, `Git Flow` |
+
+---
+
+### 🏆 Featured Project: DashTask Pro
+**[Visit Repository](https://github.com/yazeedalfuqaha/task-management-app)**
+
+* **The Tech:** Quasar 3 + Pinia + Firebase.
+* **The Challenge:** Handling real-time data synchronization with offline persistence.
+* **The Solution:** Implemented a custom caching layer using **IndexedDB** and Firestore listeners for a seamless "Zero-Latency" feel.
+
+---
+
+### 📈 Contribution Graph & Skill Set
 
 <div align="center">
-
-| Frontend | Backend / BaaS | Tools |
-|----------|----------------|------|
-| Vue.js 3 | Firebase       | Git |
-| TypeScript | Firestore   | GitHub |
-| Quasar Framework | Authentication | Vite |
-| HTML5 / CSS3 | Cloud Functions | VS Code |
-
-</div>
-
----
-
-## 🚀 Featured Project
-
-### 🔥 DashTask Pro
-> High-performance Task Management PWA
-
-🔗 **Repo:** https://github.com/yazeedalfuqaha/task-management-app  
-
-### ✨ Key Features:
-- ⚡ Real-time sync using Firebase
-- 📱 Fully responsive + PWA support
-- 🔐 Advanced security rules
-- 🌐 Offline-first experience
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yazeedalfuqaha&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazeedalfuqaha&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=yazeedalfuqaha&show_icons=true&theme=transparent&hide_border=true&title_color=1976D2&icon_color=1976D2&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazeedalfuqaha&layout=compact&theme=transparent&hide_border=true&title_color=1976D2&text_color=ffffff" width="42%" />
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yazeedalfuqaha&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yazeedalfuqaha&theme=transparent&hide_border=true&stroke=1976D2&ring=1976D2&fire=1976D2&currStreakLabel=1976D2" width="90%" />
 </div>
 
 ---
 
-## 🧩 What I Focus On
-
-- ⚡ Performance Optimization
-- 🔥 Scalable Frontend Architecture
-- ☁️ Firebase & Serverless Systems
-- 📱 Progressive Web Apps (PWA)
-- 🎯 Clean & Maintainable Code
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/yazeed-alfukaha-7a7228273/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yalfuqaha8@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## ⚡ Fun Fact
-
-> I don’t just build apps… I engineer **experiences** 🚀
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+### 📫 Connect & Collaborate
+<p align="center">
+<a href="https://www.linkedin.com/in/yazeed-alfukaha-7a7228273/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href="mailto:yalfuqaha8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
+</p>
