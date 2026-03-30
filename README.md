@@ -22,7 +22,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,quasar,vite,firebase,nodejs,git,github,vscode&perline=6" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 </div>
 
