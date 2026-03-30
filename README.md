@@ -28,29 +28,8 @@ I am a results-driven **Full-Stack Developer** dedicated to crafting seamless us
 ### **Tools & Workflow**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 
----
 
-## 🏗️ Top Repositories & Contributions
 
-<div align="center">
-  <a href="https://github.com/yazeedalfuqaha/Learnova">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yazeedalfuqaha&repo=Learnova&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/yazeedalfuqaha/TypeScript-API-Examples">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yazeedalfuqaha&repo=TypeScript-API-Examples&theme=tokyonight" />
-  </a>
-</div>
-<br />
-<div align="center">
-  <a href="https://github.com/yazeedalfuqaha/Portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yazeedalfuqaha&repo=Portfolio&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/yazeedalfuqaha/yazeedalfuqaha">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yazeedalfuqaha&repo=yazeedalfuqaha&theme=tokyonight" />
-  </a>
-</div>
-
----
 
 ## 🐍 GitHub Contribution Journey
 
